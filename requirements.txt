@@ -3,6 +3,7 @@ openai==0.26.5
 OpenAI
 pywebio
 gunicorn
-flask
+flask==1.1.1
 openai==0.26.5
+jinja2
 
